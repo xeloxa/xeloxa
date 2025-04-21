@@ -20,9 +20,5 @@
 </p>
 <p align="center"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=xeloxa&show_icons=true&locale=en&theme=dark" alt="m1ss10n"  /> 
-    <a href="https://roadmap.sh/u/xeloxa">
-    <img src="https://roadmap.sh/card/wide/67af3bc30a4602069bee8326?variant=dark&roadmaps=cyber-security%2Cpython" 
-         alt="roadmap.sh"
-         width="470"/>
-</a>
+    
 </p>
