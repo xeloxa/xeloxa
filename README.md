@@ -2,7 +2,7 @@
     Hello 🥷🏿, I'm XELOXA (Ali Sünbül)
 </h1>
 <h3 align="center" >
-    <img src="https://s3.gifyu.com/images/bS6Fo.png" alt="XELOXA" width="100%"/>
+    <img src="https://u.cubeupload.com/hackpaper/qwiVHa.png" alt="XELOXA" width="100%"/>
 
 </h3>
 
@@ -15,7 +15,7 @@
 </div>
 <br>
 <p align="center">
-    <img src="https://s13.gifyu.com/images/SXJCF.gif" />
+    <img src="https://u.cubeupload.com/hackpaper/GR9XCv.gif" />
 
 </p>
 <p align="center"> 
