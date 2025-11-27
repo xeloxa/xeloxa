@@ -17,7 +17,6 @@ I believe in continuous learning and actively document my technical findings and
 * **☁️ Cloud Security:** Proficient in AWS services (IAM, WAF, Security Groups) with a growing knowledge of Azure and GCP.
 * **🛡️ Infrastructure as Code:** Experience in deploying secure VPCs and infrastructure using **Terraform**.
 * **🔧 DevSecOps Tools:** Hands-on experience with Docker, Kubernetes, Python, and Bash scripting for automation.
-* **📚 Continuous Learning:** Currently preparing for the **AWS Certified Solutions Architect – Associate** exam.
 
 ---
 
