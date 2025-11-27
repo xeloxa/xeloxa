@@ -1,34 +1,34 @@
-### 🚀 Junior Cloud Security Specialist
+# Hi there! I'm a Junior Cloud Security Specialist 🚀
 
-> As a passionate **Junior Cloud Security Specialist**, I am actively bridging the gap between security theory and real-world cloud defense. My focus is on mastering cloud environments (**AWS**) and understanding modern infrastructure complexities.
->
-> Committed to **continuous learning**, I am building practical expertise through hands-on labs and documenting my findings in technical projects.
+As a Junior Cloud Security Specialist, I am focused on **bridging the gap between security theory and real-world cloud defense**. My passion lies in securing **AWS environments** and implementing modern **DevSecOps** practices.
 
----
-
-#### 🛠 Technical Focus
-
-* ☁️ **Cloud Infrastructure**
-    * Gaining proficiency in **AWS**, **Azure**, and **GCP**.
-    * *Focus:* IAM, WAF, and Security Groups.
-
-* 🔒 **DevSecOps & Automation**
-    * Implementing **Security-as-Code** using Terraform, Docker, and Kubernetes.
-
-* 🛡️ **Security Operations**
-    * Exploring **Threat Detection** methodologies.
-    * Scripting with **Python** and **Bash** to automate defense workflows.
+I don’t just learn concepts; I **build, test, and document** them. I am actively turning my technical studies into practical labs and sharing my findings on my technical blog to contribute to the community.
 
 ---
 
-### 🌟 Opportunities
+### 🚀 What I Bring to the Table
 
-I am actively looking for **internship or junior opportunities** where I can contribute to cloud security operations, automate defense workflows, and grow alongside experienced teams.
+**☁️ Cloud Security & Infrastructure**
+* Specializing in the **AWS ecosystem** with a hands-on understanding of IAM, WAF, VPC security, and Security Groups.
+* Familiar with **Azure** & **GCP** core concepts.
+
+**🔒 DevSecOps & Automation**
+* Moving away from manual configurations to **Infrastructure as Code (IaC)**.
+* I use **Terraform** to build secure infrastructures and integrate security into CI/CD pipelines using **Docker** and **Kubernetes**.
+
+**🛡️ Security Operations**
+* Automating defense workflows using **Python** and **Bash** scripting.
+* Constantly exploring new **Threat Detection** methodologies to stay ahead of potential risks.
+
+---
+
+### 🌟 Career Objective
+I am actively seeking **internship or junior opportunities** where I can contribute to cloud security operations, automate security workflows, and grow alongside an experienced engineering team.
 
 ---
 
 ### 📫 Let's Connect!
 
 * 🌍 **Portfolio:** [xeloxa.netlify.app](https://xeloxa.netlify.app)
-* ✍️ **Blog:** [hackpaper.netlify.app](https://hackpaper.netlify.app)
+* ✍️ **Tech Blog:** [hackpaper.netlify.app](https://hackpaper.netlify.app)
 * 📧 **Email:** [alisunbul@proton.me](mailto:alisunbul@proton.me)
