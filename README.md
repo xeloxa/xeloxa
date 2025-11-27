@@ -1,22 +1,23 @@
-# Hi, I'm a Junior Cloud Security Specialist ☁️🛡️
+### 🚀 Junior Cloud Security Specialist
 
-I am dedicated to bridging the gap between theoretical security concepts and real-world cloud defense. My journey is driven by a curiosity for how modern infrastructure works and how to secure it against evolving threats.
-
----
-
-### 🚀 Current Focus
-
-Currently, I am focused on mastering **AWS environments**, implementing **DevSecOps** practices, and understanding the complexities of modern defense mechanisms. 
-
-I believe in continuous learning and actively document my technical findings and lab experiments on my blog, **[HackPaper](https://hackpaper.netlify.app)**.
+> As a passionate **Junior Cloud Security Specialist**, I am actively bridging the gap between security theory and real-world cloud defense. My focus is on mastering cloud environments (**AWS**) and understanding modern infrastructure complexities.
+>
+> Committed to **continuous learning**, I am building practical expertise through hands-on labs and documenting my findings in technical projects.
 
 ---
 
-### 💻 What I bring to the table
+#### 🛠 Technical Focus
 
-* **☁️ Cloud Security:** Proficient in AWS services (IAM, WAF, Security Groups) with a growing knowledge of Azure and GCP.
-* **🛡️ Infrastructure as Code:** Experience in deploying secure VPCs and infrastructure using **Terraform**.
-* **🔧 DevSecOps Tools:** Hands-on experience with Docker, Kubernetes, Python, and Bash scripting for automation.
+* ☁️ **Cloud Infrastructure**
+    * Gaining proficiency in **AWS**, **Azure**, and **GCP**.
+    * *Focus:* IAM, WAF, and Security Groups.
+
+* 🔒 **DevSecOps & Automation**
+    * Implementing **Security-as-Code** using Terraform, Docker, and Kubernetes.
+
+* 🛡️ **Security Operations**
+    * Exploring **Threat Detection** methodologies.
+    * Scripting with **Python** and **Bash** to automate defense workflows.
 
 ---
 
