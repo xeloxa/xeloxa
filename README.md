@@ -2,6 +2,7 @@
 
 I'm an Ethical Hacker & Penetration Tester passionate about Cloud, Web App & Application Security. I focus on offensive security and actively contribute to open-source projects.
 
+
 ### 🚀 Projects
 
 - **[s3finder](https://github.com/xeloxa/s3finder)** - A tool for discovering and analyzing open S3 buckets
@@ -34,3 +35,12 @@ More coming soon! 🔜
 | CVE ID | Exploit | Description |
 |--------|---------|-------------|
 | [CVE-2024-28397](https://nvd.nist.gov/vuln/detail/CVE-2024-28397) | [Exploit](https://github.com/xeloxa/CVE-2024-28397-Js2Py-RCE-Exploit) | Remote Code Execution in Js2Py |
+
+---
+<table>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=xeloxa&theme=radical" alt="xeloxa's GitHub streak"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xeloxa&theme=radical" alt="xeloxa's GitHub stats"></td>
+  </tr>
+</table>
+
