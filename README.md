@@ -27,3 +27,9 @@ More contributions coming soon! 🔜
 | [CVE-2026-1857](https://www.cve.org/CVERecord?id=CVE-2026-1857) | Reserved | Coming soon |
 
 More coming soon! 🔜
+
+### 💥 Exploits
+
+| CVE ID | Exploit | Description |
+|--------|---------|-------------|
+| [CVE-2024-28397](https://nvd.nist.gov/vuln/detail/CVE-2024-28397) | [Exploit](https://github.com/xeloxa/CVE-2024-28397-Js2Py-RCE-Exploit) | Remote Code Execution in Js2Py |
