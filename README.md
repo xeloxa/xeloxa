@@ -15,8 +15,8 @@ More projects coming soon! 🛠️
 
 | Repository | Stars | Contribution | Issue/PR | Fix |
 |------------|-------|--------------|----------|-----|
-| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | ⭐ 2,661 | Security vulnerability report | [#142](https://github.com/lukilabs/craft-agents-oss/issues/142) | Fixed path traversal in STORE_ATTACHMENT IPC handler (v0.3.2) |
-| [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) | ⭐ 8,130 | Secure file permissions fix | [#353](https://github.com/NoeFabris/opencode-antigravity-auth/pull/353) | Set 0600 permissions for credential storage |
+| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | [![GitHub Repo stars](https://img.shields.io/github/stars/lukilabs/craft-agents-oss?style=flat&logo=github)](https://github.com/lukilabs/craft-agents-oss) | Security vulnerability report | [#142](https://github.com/lukilabs/craft-agents-oss/issues/142) | Fixed path traversal in STORE_ATTACHMENT IPC handler (v0.3.2) |
+| [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) | [![GitHub Repo stars](https://img.shields.io/github/stars/NoeFabris/opencode-antigravity-auth?style=flat&logo=github)](https://github.com/NoeFabris/opencode-antigravity-auth) | Secure file permissions fix | [#353](https://github.com/NoeFabris/opencode-antigravity-auth/pull/353) | Set 0600 permissions for credential storage |
 
 More contributions coming soon! 🔜
 
@@ -26,7 +26,7 @@ More contributions coming soon! 🔜
 |--------|--------|-------------|
 | [CVE-2026-1993](https://www.cve.org/CVERecord?id=CVE-2026-1993) | Reserved | Coming soon |
 | [CVE-2026-1992](https://www.cve.org/CVERecord?id=CVE-2026-1992) | Reserved | Coming soon |
-| [CVE-2026-1857](https://www.cve.org/CVERecord?id=CVE-2026-1857) | Reserved | Coming soon |
+| [CVE-2026-1857](https://www.cve.org/CVERecord?id=CVE-2026-1857) | Published | SSRF vulnerability in Kadence Blocks <= 3.6.1 |
 
 More coming soon! 🔜
 
