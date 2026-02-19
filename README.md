@@ -24,10 +24,10 @@ More contributions coming soon! 🔜
 
 | CVE ID | Status | Description |
 |--------|--------|-------------|
-| [CVE-2026-1993](https://www.cve.org/CVERecord?id=CVE-2026-1993) | Reserved | Coming soon |
-| [CVE-2026-1992](https://www.cve.org/CVERecord?id=CVE-2026-1992) | Reserved | Coming soon |
-| [CVE-2026-1857](https://www.cve.org/CVERecord?id=CVE-2026-1857) | Published | SSRF vulnerability in Kadence Blocks <= 3.6.1 |
-| [CVE-2026-2633](https://www.cve.org/CVERecord?id=CVE-2026-2633) | Published | Missing authorization in Kadence Blocks <= 3.6.1 allowing contributor+ unauthorized media upload |
+| [CVE-2026-1993](https://www.cve.org/CVERecord?id=CVE-2026-1993) | 🟡 Reserved | Coming soon |
+| [CVE-2026-1992](https://www.cve.org/CVERecord?id=CVE-2026-1992) | 🟡 Reserved | Coming soon |
+| [CVE-2026-1857](https://www.cve.org/CVERecord?id=CVE-2026-1857) | ✅ Published | SSRF vulnerability in Kadence Blocks <= 3.6.1 |
+| [CVE-2026-2633](https://www.cve.org/CVERecord?id=CVE-2026-2633) | ✅ Published | Missing authorization in Kadence Blocks <= 3.6.1 allowing contributor+ unauthorized media upload |
 
 More coming soon! 🔜
 
