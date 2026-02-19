@@ -13,10 +13,10 @@ More projects coming soon! 🛠️
 
 ### 🛡️ Security Contributions
 
-| Repository | Stars | Issue/PR | Fix |
-|------------|-------|----------|-----|
-| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | [![GitHub Repo stars](https://img.shields.io/github/stars/lukilabs/craft-agents-oss?style=flat&logo=github)](https://github.com/lukilabs/craft-agents-oss) | [#142](https://github.com/lukilabs/craft-agents-oss/issues/142) | Fixed path traversal in STORE_ATTACHMENT IPC handler (v0.3.2) |
-| [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) | [![GitHub Repo stars](https://img.shields.io/github/stars/NoeFabris/opencode-antigravity-auth?style=flat&logo=github)](https://github.com/NoeFabris/opencode-antigravity-auth) | [#353](https://github.com/NoeFabris/opencode-antigravity-auth/pull/353) | Set 0600 permissions for credential storage |
+| Repository | Stars | Fix |
+|------------|-------|-----|
+| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | [![GitHub Repo stars](https://img.shields.io/github/stars/lukilabs/craft-agents-oss?style=flat&logo=github)](https://github.com/lukilabs/craft-agents-oss) | Fixed path traversal in STORE_ATTACHMENT IPC handler (v0.3.2) · [↗ #142](https://github.com/lukilabs/craft-agents-oss/issues/142) |
+| [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) | [![GitHub Repo stars](https://img.shields.io/github/stars/NoeFabris/opencode-antigravity-auth?style=flat&logo=github)](https://github.com/NoeFabris/opencode-antigravity-auth) | Set 0600 permissions for credential storage · [↗ #353](https://github.com/NoeFabris/opencode-antigravity-auth/pull/353) |
 
 More contributions coming soon! 🔜
 
@@ -33,9 +33,9 @@ More coming soon! 🔜
 
 ### 💥 Exploits
 
-| CVE ID | Exploit | Description |
-|--------|---------|-------------|
-| [CVE-2024-28397](https://nvd.nist.gov/vuln/detail/CVE-2024-28397) | [Exploit](https://github.com/xeloxa/CVE-2024-28397-Js2Py-RCE-Exploit) | Remote Code Execution in Js2Py |
+| CVE ID | Exploit | Exploit-DB | Description |
+|--------|---------|------------|-------------|
+| [CVE-2024-28397](https://nvd.nist.gov/vuln/detail/CVE-2024-28397) | [↗ GitHub](https://github.com/xeloxa/CVE-2024-28397-Js2Py-RCE-Exploit) | ⏳ Pending | Remote Code Execution in Js2Py |
 
 ---
 <table>
