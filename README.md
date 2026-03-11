@@ -21,12 +21,13 @@ More contributions coming soon! 🔜
 
 ### 🔍 CVEs
 
-| CVE ID | Status | Description |
-|--------|--------|-------------|
-| [CVE-2026-1993](https://www.cve.org/CVERecord?id=CVE-2026-1993) | ✅ Published | Privilege escalation in ExactMetrics <= 9.0.2 |
-| [CVE-2026-1992](https://www.cve.org/CVERecord?id=CVE-2026-1992) | ✅ Published | Arbitrary plugin installation in ExactMetrics <= 9.0.2 |
-| [CVE-2026-1857](https://www.cve.org/CVERecord?id=CVE-2026-1857) | ✅ Published | SSRF vulnerability in Kadence Blocks <= 3.6.1 |
-| [CVE-2026-2633](https://www.cve.org/CVERecord?id=CVE-2026-2633) | ✅ Published | Missing authorization in Kadence Blocks <= 3.6.1 allows unauthorized media upload |
+| CVE ID | Status | CVSS | Description |
+|--------|--------|------|-------------|
+| [CVE-2026-1993](https://www.cve.org/CVERecord?id=CVE-2026-1993) | ✅ Published | 8.8 | Privilege escalation in ExactMetrics <= 9.0.2 |
+| [CVE-2026-1992](https://www.cve.org/CVERecord?id=CVE-2026-1992) | ✅ Published | 8.8 | Arbitrary plugin installation in ExactMetrics <= 9.0.2 |
+| [CVE-2026-1857](https://www.cve.org/CVERecord?id=CVE-2026-1857) | ✅ Published | 4.3 | SSRF vulnerability in Kadence Blocks <= 3.6.1 |
+| [CVE-2026-2633](https://www.cve.org/CVERecord?id=CVE-2026-2633) | ✅ Published | 4.3 | Unauthorized media upload in Kadence Blocks <= 3.6.1 |
+
 
 More coming soon! 🔜
 
