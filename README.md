@@ -2,7 +2,6 @@
 
 I'm an Ethical Hacker & Penetration Tester passionate about Cloud, Web App & Application Security. I focus on offensive security and actively contribute to open-source projects.
 
-
 ### 🚀 Projects
 
 - **[s3finder](https://github.com/xeloxa/s3finder)** - A tool for discovering and analyzing open S3 buckets
@@ -20,12 +19,12 @@ More projects coming soon! 🛠️
 
 More contributions coming soon! 🔜
 
-### 🔍 CVE
+### 🔍 CVEs
 
 | CVE ID | Status | Description |
 |--------|--------|-------------|
-| [CVE-2026-1993](https://www.cve.org/CVERecord?id=CVE-2026-1993) | ⏳ Reserved | Coming soon |
-| [CVE-2026-1992](https://www.cve.org/CVERecord?id=CVE-2026-1992) | ⏳ Reserved | Coming soon |
+| [CVE-2026-1993](https://www.cve.org/CVERecord?id=CVE-2026-1993) | ✅ Published | Privilege escalation in ExactMetrics <= 9.0.2 |
+| [CVE-2026-1992](https://www.cve.org/CVERecord?id=CVE-2026-1992) | ✅ Published | Arbitrary plugin installation in ExactMetrics <= 9.0.2 |
 | [CVE-2026-1857](https://www.cve.org/CVERecord?id=CVE-2026-1857) | ✅ Published | SSRF vulnerability in Kadence Blocks <= 3.6.1 |
 | [CVE-2026-2633](https://www.cve.org/CVERecord?id=CVE-2026-2633) | ✅ Published | Missing authorization in Kadence Blocks <= 3.6.1 allows unauthorized media upload |
 
@@ -38,10 +37,10 @@ More coming soon! 🔜
 | [CVE-2024-28397](https://nvd.nist.gov/vuln/detail/CVE-2024-28397) | [↗ GitHub](https://github.com/xeloxa/CVE-2024-28397-Js2Py-RCE-Exploit) | ⏳ Pending | Remote Code Execution in Js2Py |
 
 ---
+
 <table>
   <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=xeloxa&theme=radical" alt="xeloxa's GitHub streak"></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xeloxa&theme=radical" alt="xeloxa's GitHub stats"></td>
   </tr>
 </table>
-
