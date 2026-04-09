@@ -5,7 +5,7 @@ I'm an Ethical Hacker & Penetration Tester passionate about Cloud, Web App & App
 ### 🚀 Projects
 
 - **[s3finder](https://github.com/xeloxa/s3finder)** - A tool for discovering and analyzing open S3 buckets
-- **[wp-hunter](https://github.com/xeloxa/wp-hunter)** - WordPress vulnerability scanner and reconnaissance tool
+- **[Temodar Agent](https://github.com/xeloxa/temodar-agent)** - AI-powered WordPress plugin/theme security analysis platform with Semgrep-based static analysis and agent-assisted investigation workflows
 - **[aws-clf-c02-notlari](https://github.com/xeloxa/aws-clf-c02-notlari)** - AWS Certified Cloud Practitioner study notes
 
 More projects coming soon! 🛠️
