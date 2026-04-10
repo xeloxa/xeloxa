@@ -14,7 +14,7 @@ More projects coming soon! 🛠️
 
 | Repository | Stars | Fix |
 |------------|-------|-----|
-| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | [![GitHub Repo stars](https://img.shields.io/github/stars/lukilabs/craft-agents-oss?style=flat&logo=github)](https://github.com/lukilabs/craft-agents-oss) | Fixed path traversal in STORE_ATTACHMENT IPC handler (v0.3.2) · [↗ #142](https://github.com/lukilabs/craft-agents-oss/issues/142) |
+| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | [![GitHub Repo stars](https://img.shields.io/github/stars/lukilabs/craft-agents-oss?style=flat&logo=github)](https://github.com/lukilabs/craft-agents-oss) | Fixed path traversal in STORE_ATTACHMENT IPC handler (v0.3.2) · [↗](https://github.com/lukilabs/craft-agents-oss/security/advisories/GHSA-55x8-6mw9-g8fh) |
 | [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) | [![GitHub Repo stars](https://img.shields.io/github/stars/NoeFabris/opencode-antigravity-auth?style=flat&logo=github)](https://github.com/NoeFabris/opencode-antigravity-auth) | Set 0600 permissions for credential storage · [↗ #353](https://github.com/NoeFabris/opencode-antigravity-auth/pull/353) |
 
 More contributions coming soon! 🔜
