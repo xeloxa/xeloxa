@@ -10,10 +10,17 @@ I'm an Ethical Hacker & Penetration Tester passionate about Cloud, Web App & App
 
 More projects coming soon! 🛠️
 
+### 🏆 Bug Bounties
+
+- **[Razorpay (HackerOne)](https://hackerone.com/razorpay/hacktivity)** - Listed on public Hacktivity as xeloxa
+
 ### 🛡️ Security Contributions
 
 | Repository | Stars | Fix |
 |------------|-------|-----|
+| [gofiber/fiber](https://github.com/gofiber/fiber) | [![GitHub Repo stars](https://img.shields.io/github/stars/gofiber/fiber?style=flat&logo=github)](https://github.com/gofiber/fiber) | Reported cache middleware query-string key collision / response mix-up (GHSA-35hp-hqmv-8qg8, CVE-2026-30246) · [↗ Advisory](https://github.com/gofiber/fiber/security/advisories/GHSA-35hp-hqmv-8qg8) |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [![GitHub Repo stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat&logo=github)](https://github.com/NousResearch/hermes-agent) | Reported ACP auth / approval hardening issues and fixes · [↗ #13468](https://github.com/NousResearch/hermes-agent/pull/13468) · [↗ #13471](https://github.com/NousResearch/hermes-agent/pull/13471) · [↗ #13525](https://github.com/NousResearch/hermes-agent/pull/13525) |
+| [EvoMap/evolver](https://github.com/EvoMap/evolver) | [![GitHub Repo stars](https://img.shields.io/github/stars/EvoMap/evolver?style=flat&logo=github)](https://github.com/EvoMap/evolver) | Reported RCE, arbitrary file write, and prototype pollution issues · [↗ GHSA-j5w5-568x-rq53](https://github.com/EvoMap/evolver/security/advisories/GHSA-j5w5-568x-rq53) · [↗ GHSA-r466-rxw4-3j9j](https://github.com/EvoMap/evolver/security/advisories/GHSA-r466-rxw4-3j9j) · [↗ GHSA-2cjr-5v3h-v2w4](https://github.com/EvoMap/evolver/security/advisories/GHSA-2cjr-5v3h-v2w4) |
 | [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | [![GitHub Repo stars](https://img.shields.io/github/stars/lukilabs/craft-agents-oss?style=flat&logo=github)](https://github.com/lukilabs/craft-agents-oss) | Fixed path traversal in STORE_ATTACHMENT IPC handler (v0.3.2) · [↗ Advisories](https://github.com/lukilabs/craft-agents-oss/security/advisories/GHSA-55x8-6mw9-g8fh) |
 | [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) | [![GitHub Repo stars](https://img.shields.io/github/stars/NoeFabris/opencode-antigravity-auth?style=flat&logo=github)](https://github.com/NoeFabris/opencode-antigravity-auth) | Set 0600 permissions for credential storage · [↗ #353](https://github.com/NoeFabris/opencode-antigravity-auth/pull/353) |
 
