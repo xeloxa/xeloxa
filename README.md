@@ -1,4 +1,4 @@
-## Welcome! 👋 [View my resume ↗](https://xeloxa.netlify.app/Ali_Sunbul_Resume.pdf)
+## Welcome! 👋 
 
 I'm an Ethical Hacker & Penetration Tester passionate about Cloud, Web App & Application Security. I focus on offensive security and actively contribute to open-source projects.
 
