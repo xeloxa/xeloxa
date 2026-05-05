@@ -30,8 +30,11 @@ More contributions coming soon! 🔜
 
 | CVE ID | Status | CVSS | Description |
 |--------|--------|------|-------------|
+| [CVE-2026-42076](https://www.cve.org/CVERecord?id=CVE-2026-42076) | ✅ Published | 9.8 | Remote Code Execution in EvoMap Evolver < 1.69.3 |
 | [CVE-2026-1993](https://www.cve.org/CVERecord?id=CVE-2026-1993) | ✅ Published | 8.8 | Privilege escalation in ExactMetrics <= 9.0.2 |
 | [CVE-2026-1992](https://www.cve.org/CVERecord?id=CVE-2026-1992) | ✅ Published | 8.8 | Arbitrary plugin installation in ExactMetrics <= 9.0.2 |
+| [CVE-2026-42075](https://www.cve.org/CVERecord?id=CVE-2026-42075) | ✅ Published | 8.1 | Arbitrary file write in EvoMap Evolver < 1.69.3 |
+| [CVE-2026-42077](https://www.cve.org/CVERecord?id=CVE-2026-42077) | ✅ Published | 5.2 | Prototype pollution in EvoMap Evolver < 1.69.3 |
 | [CVE-2026-1857](https://www.cve.org/CVERecord?id=CVE-2026-1857) | ✅ Published | 4.3 | SSRF vulnerability in Kadence Blocks <= 3.6.1 |
 | [CVE-2026-2633](https://www.cve.org/CVERecord?id=CVE-2026-2633) | ✅ Published | 4.3 | Unauthorized media upload in Kadence Blocks <= 3.6.1 |
 
