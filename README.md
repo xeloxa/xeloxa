@@ -42,8 +42,8 @@ More coming soon! 🔜
 
 | CVE ID | Exploit | Exploit-DB | Description |
 |--------|---------|------------|-------------|
-| [CVE-2024-28397](https://nvd.nist.gov/vuln/detail/CVE-2024-28397) | [↗ GitHub](https://github.com/xeloxa/CVE-2024-28397-Js2Py-RCE-Exploit) | ⏳ Pending | Remote Code Execution in Js2Py |
-| [CVE-2026-31431](https://nvd.nist.gov/vuln/detail/CVE-2026-31431) | [↗ GitHub](https://github.com/xeloxa/copyfail-exploit) | ⏳ Pending | Copy Fail - Local Privilege Escalation |
+| [CVE-2024-28397](https://nvd.nist.gov/vuln/detail/CVE-2024-28397) | [↗ GitHub](https://github.com/xeloxa/CVE-2024-28397-Js2Py-RCE-Exploit) | [↗ 52532](https://www.exploit-db.com/exploits/52532) | Remote Code Execution in Js2Py |
+| [CVE-2026-31431](https://nvd.nist.gov/vuln/detail/CVE-2026-31431) | [↗ GitHub](https://github.com/xeloxa/copyfail-exploit) | [↗ Vulners](https://vulners.com/githubexploit/FCD4859C-0283-5E73-8890-5961D454FB63) | Copy Fail - Local Privilege Escalation |
 
 ---
 
