@@ -2,7 +2,7 @@
 
 I'm an Ethical Hacker & Penetration Tester passionate about Cloud, Web App & Application Security. I focus on offensive security and actively contribute to open-source projects.
 
-### 🚀 Projects
+### 🚀 My Projects
 
 - **[s3finder](https://github.com/xeloxa/s3finder)** - A tool for discovering and analyzing open S3 buckets
 - **[Temodar Agent](https://github.com/xeloxa/temodar-agent)** - AI-powered WordPress plugin/theme security analysis platform with Semgrep-based static analysis and agent-assisted investigation workflows
@@ -10,11 +10,11 @@ I'm an Ethical Hacker & Penetration Tester passionate about Cloud, Web App & App
 
 More projects coming soon! 🛠️
 
-### 🏆 Bug Bounties
+### 🏆 My Bug Bounties
 
 - **[Razorpay (HackerOne)](https://hackerone.com/razorpay/hacktivity)** - Listed on public Hacktivity as xeloxa
 
-### 🛡️ Security Contributions
+### 🛡️ My Security Contributions
 
 | Repository | Stars | Fix |
 |------------|-------|-----|
@@ -26,7 +26,7 @@ More projects coming soon! 🛠️
 
 More contributions coming soon! 🔜
 
-### 🔍 CVEs
+### 🔍 My CVEs
 
 | CVE ID | Status | CVSS | Description |
 |--------|--------|------|-------------|
@@ -34,6 +34,7 @@ More contributions coming soon! 🔜
 | [CVE-2026-1993](https://www.cve.org/CVERecord?id=CVE-2026-1993) | ✅ Published | 8.8 | Privilege escalation in ExactMetrics <= 9.0.2 |
 | [CVE-2026-1992](https://www.cve.org/CVERecord?id=CVE-2026-1992) | ✅ Published | 8.8 | Arbitrary plugin installation in ExactMetrics <= 9.0.2 |
 | [CVE-2026-42075](https://www.cve.org/CVERecord?id=CVE-2026-42075) | ✅ Published | 8.1 | Arbitrary file write in EvoMap Evolver < 1.69.3 |
+| [CVE-2026-30246](https://www.cve.org/CVERecord?id=CVE-2026-30246) | ✅ Published | 6.5 | Cache response mix-up in gofiber/fiber < 3.2.0 |
 | [CVE-2026-42077](https://www.cve.org/CVERecord?id=CVE-2026-42077) | ✅ Published | 5.2 | Prototype pollution in EvoMap Evolver < 1.69.3 |
 | [CVE-2026-1857](https://www.cve.org/CVERecord?id=CVE-2026-1857) | ✅ Published | 4.3 | SSRF vulnerability in Kadence Blocks <= 3.6.1 |
 | [CVE-2026-2633](https://www.cve.org/CVERecord?id=CVE-2026-2633) | ✅ Published | 4.3 | Unauthorized media upload in Kadence Blocks <= 3.6.1 |
@@ -41,7 +42,7 @@ More contributions coming soon! 🔜
 
 More coming soon! 🔜
 
-### 💥 Exploits
+### 💥 My Exploits
 
 | CVE ID | Exploit | Exploit-DB | Description |
 |--------|---------|------------|-------------|
