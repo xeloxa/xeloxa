@@ -49,7 +49,7 @@ More coming soon! 🔜
 |--------|---------|------------|-------------|
 | [CVE-2024-28397](https://nvd.nist.gov/vuln/detail/CVE-2024-28397) | [↗ GitHub](https://github.com/xeloxa/CVE-2024-28397-Js2Py-RCE-Exploit) | [↗ 52532](https://www.exploit-db.com/exploits/52532) | Remote Code Execution in Js2Py |
 | [CVE-2026-31431](https://nvd.nist.gov/vuln/detail/CVE-2026-31431) | [↗ GitHub](https://github.com/xeloxa/copyfail-exploit) | [↗ Vulners](https://vulners.com/githubexploit/FCD4859C-0283-5E73-8890-5961D454FB63) | Copy Fail - Local Privilege Escalation |
-| [CVE-2026-23918](https://nvd.nist.gov/vuln/detail/CVE-2026-23918) | [↗ GitHub](https://github.com/xeloxa/CVE-2026-23918-Apache-H2-PoC) | - | Apache HTTP Server - HTTP/2 Double Free |
+| [CVE-2026-23918](https://nvd.nist.gov/vuln/detail/CVE-2026-23918) | [↗ GitHub](https://github.com/xeloxa/CVE-2026-23918-Apache-H2-PoC) | [↗ Vulners](https://vulners.com/githubexploit/BA8A46A4-71BC-5D43-B3FC-D50C9ADB0348) | Apache HTTP Server - HTTP/2 Double Free |
 
 ---
 
