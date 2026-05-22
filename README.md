@@ -1,4 +1,4 @@
-## Welcome! 👋 
+## Welcome! 👋 [View my resume ↗](https://hackpaper.com/assets/Ali_Sunbul_Security_Resume_Public.pdf)
 
 I'm an Ethical Hacker & Penetration Tester passionate about Cloud, Web App & Application Security. I focus on offensive security and actively contribute to open-source projects.
 
