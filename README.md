@@ -11,8 +11,8 @@ I'm an Ethical Hacker & Penetration Tester passionate about Cloud, Web App & App
 
 More projects coming soon! 🛠️
 
-### 🏆 My Bug Bounties
-
+### 🏆 BBP - VDP
+- **[Amazon Web Service (HackerOne)](https://hackerone.com/xeloxa)** - Listed on public Hacktivity as xeloxa
 - **[Razorpay (HackerOne)](https://hackerone.com/razorpay/hacktivity)** - Listed on public Hacktivity as xeloxa
 
 ### 🛡️ My Security Contributions
